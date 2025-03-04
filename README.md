@@ -11,7 +11,7 @@ Before setting up the project, make sure you have the following installed:
 
 ## 📥 1. Clone the Repository  
 ```sh
-git clone https://github.com/your-username/spark-backend.git
+git clone https://github.com/09web2003/spark-backend.git
 cd spark-backend
 ```
 
